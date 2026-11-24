@@ -1,0 +1,15 @@
+{
+  "order_id": 5,
+  "client_id": 5,
+  "order_date": "2026-10-29",
+  "items": [
+    {
+      "product_id": 104,
+      "quantity": 19
+    },
+    {
+      "product_id": 103,
+      "quantity": 36
+    }
+  ]
+}
